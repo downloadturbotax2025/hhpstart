@@ -10,7 +10,7 @@ How to Connect Your HP Printer to Wi-Fi via 123.hp.com
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: Screenshot_10.png
    :width: 350px
    :align: center
    :height: 100px
